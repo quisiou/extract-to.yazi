@@ -20,13 +20,13 @@ Tar archives (`.tar`, `.tar.gz`, `.tar.xz`, `.tar.bz2`, `.tar.zst`, `.tgz`, `.tx
 ## Installation
 
 ```sh
-ya pkg add YOUR_USER/extract-to
+ya pkg add quisiou/extract-to
 ```
 
 Or manually:
 
 ```sh
-git clone https://github.com/YOUR_USER/extract-to.yazi ~/.config/yazi/plugins/extract-to.yazi
+git clone https://github.com/quisiou/extract-to.yazi ~/.config/yazi/plugins/extract-to.yazi
 ```
 
 ## Usage
